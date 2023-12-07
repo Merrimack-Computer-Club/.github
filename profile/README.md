@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./merrimack-computer-club-removebg-preview.png" alt="Merrimack College Computer Club Logo" width="200">
+  <img src="./public/merrimack-computer-club-removebg-preview.png" alt="Merrimack College Computer Club Logo" width="200">
 </p>
 
 # Merrimack Computer Club
