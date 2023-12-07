@@ -1,18 +1,19 @@
 <p align="center">
-  <img src="./profile/merrimack-computer-club-removebg-preview.png" alt="Merrimack College Computer Club Logo" width="200">
+  <img src="./profile/merrimack-computer-club-removebg-preview.png" alt="Merrimack Computer Club Logo" width="200">
 </p>
 
 # Merrimack Computer Club
 
-Welcome to the official GitHub repository of the Merrimack College Computer Club! 🚀
+Welcome to the official GitHub organization for the Merrimack Computer Club! 🚀
 
 ## About Us
 
-The Merrimack College Computer Club is a vibrant community of enthusiastic students passionate about computer science, programming, and technology. Our mission is to provide a collaborative platform for learning, innovation, and professional growth. Whether you're a coding novice or a seasoned developer, everyone is invited to join us on this exciting journey.
+The Merrimack Computer Club is a vibrant community of enthusiastic students passionate about computer science, programming, and technology. Our mission is to provide a collaborative platform for learning, innovation, and professional growth. Whether you're a coding novice or a seasoned developer, everyone is invited to join us on this exciting journey.
 
 ## How to Get Involved
 
 We encourage all Merrimack College students to become active members of our club. Here's how you can join the community:
+- **Join our Club:** Register on Warrior Network to become a member of the club.
 
 - **Join our GitHub Organization:** You can become a part of our GitHub organization to access our repositories and contribute to ongoing projects.
 
