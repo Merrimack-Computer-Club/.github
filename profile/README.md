@@ -46,5 +46,6 @@ Please review and adhere to our to ensure a positive and inclusive community for
 
 - **Email:** computerclub@merrimack.edu
 - **Discord:** https://discord.gg/QfQTgxukHt
+- **LinkedIn:** https://www.linkedin.com/groups/14193315/
 
 We're thrilled to have you as part of the Merrimack College Computer Club! Happy coding! 👩‍💻👨‍💻
