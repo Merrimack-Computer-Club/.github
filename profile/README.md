@@ -33,6 +33,8 @@ Please follow these guidelines when contributing to our repositories:
 
 - **Documentation:** Keep the documentation up-to-date. If you introduce a new feature, update the documentation accordingly.
 
+- **Secret Management:** Assure your code contains no secret information (keys, password, identifiers, etc.) Or use a Secret storage for managing private information.
+
 ## Projects
 
 Explore our exciting projects and contribute to ongoing initiatives.
